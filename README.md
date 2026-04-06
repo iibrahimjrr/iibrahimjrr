@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a Back-End Developer with hands-on experience using .NET and Laravel to build and maintain APIs,
-database systems, and web applications.<br>
+I’m a Back-End developer with hands-on experience in building RESTful APIs using ASP.NET Core and Laravel. Skilled in C#, PHP, MySQL, JWT authentication, and clean architecture principles. Experienced in designing scalable backend systems and integrating databases. Passionate about building secure and maintainable web applications and continuously learning new technologies.Experience.<br>
 
 
 ## 🌐 Socials:
